@@ -1,0 +1,14 @@
+{
+  "name": "React-first-app",
+  "version": "1.0.0",
+  "description": "React first app",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Denis Tsebin",
+  "license": "Q3Studio",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
